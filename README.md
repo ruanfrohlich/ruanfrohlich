@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruanfrohlich&label=Profile%20views&color=0e75b6&style=flat" alt="ruanfrohlich" /> </p>
 
-- 🔭 I’m currently working on [Parcel LIB](https://github.com/ruanfrohlich/frontend-utils)
+- 🔭 I’m currently working on [BCB Scrap on Electron](https://github.com/ruanfrohlich/scrap-banco-central) and [WebSocket](https://github.com/ruanfrohlich/ws-lab)
 
 - 🌱 I’m currently learning **NextJS, ReactJS, Tailwind/CSS3 and others.**
 
