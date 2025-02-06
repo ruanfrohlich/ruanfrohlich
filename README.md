@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **NextJS, ReactJS, Tailwind/CSS3 and others.**
 
-- 👨‍💻 All of my projects are available at [linkportfolio.com](linkportfolio.com)
-
 - 💬 Ask me about **HTML, CSS, React and JavaScript**
 
 - 📫 How to reach me **ruanfrohlich@gmail.com**
