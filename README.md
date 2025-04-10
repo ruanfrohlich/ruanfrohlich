@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [BCB Scrap on Electron](https://github.com/ruanfrohlich/scrap-banco-central) and [WebSocket](https://github.com/ruanfrohlich/ws-lab)
 
-- 🌱 I’m currently learning **NextJS, ReactJS, Tailwind/CSS3 and others.**
+- 🌱 I’m currently learning **WebRTC and WebSocket**
 
 - 💬 Ask me about **HTML, CSS, React and JavaScript/Typescript**
 
