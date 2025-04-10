@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NextJS, ReactJS, Tailwind/CSS3 and others.**
 
-- 💬 Ask me about **HTML, CSS, React and JavaScript**
+- 💬 Ask me about **HTML, CSS, React and JavaScript/Typescript**
 
 - 📫 How to reach me **ruanfrohlich@gmail.com**
 
