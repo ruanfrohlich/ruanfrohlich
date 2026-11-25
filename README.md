@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **WebRTC and WebSocket**.
 
-- 💬 Ask me about **HTML, CSS, React, JavaScript/TypeScript, Next.js, e Node.js based architectures**.
+- 💬 Ask me about **HTML, CSS, React, JavaScript/TypeScript, Next.js and Node.js based architectures**.
 
 - 📫 How to reach me **ruanfrohlich@proton.me**
 
